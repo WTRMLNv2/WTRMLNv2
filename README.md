@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a Bunana
 - 👀 I’m interested food
 - 🌱 I’m currently learning python
-- 😄 Pronouns: it, meaow
+- 😄 Pronouns: he, him
 - ⚡ Fun fact: cats are cleaner than you could ever be (except if you are a cat)
 
 <!---
