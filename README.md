@@ -1,11 +1,28 @@
-- 👋 Hi, I’m a Bunana
-- 👀 I’m interested food
-- 🌱 I’m currently learning python
-- 😄 Pronouns: he, him
-- ⚡ Fun fact: cats are cleaner than you could ever be (except if you are a cat)
+# Hey there~ I'm Ansh! (≧◡≦) ♡
 
-<!---
-PeppawouldusayBUNANA/PeppawouldusayBUNANA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my little corner of GitHub!  
+I'm currently a class 8 student who loves:
 
+- 🐍 Python (my fav language! no snek jokes pls ( •̀ ω •́ )✧)
+- 🎮 Minecraft
+- 📈 Stonks 
+- 💻 Making cool apps on Python
+
+---
+## 💡 Things I Do:
+- Code
+- Trade in stocks
+- Use APIs (a lot)
+- Study (I am in 8th duh)
+
+---
+
+## 🌱 Currently learning
+
+- More Python magic ✨
+- APIs (talking to robots basically)
+- How not to break my code (still working on it (￣▽￣*)ゞ)
+
+---
+
+Thanks for stopping by! ✌(◕‿-)
